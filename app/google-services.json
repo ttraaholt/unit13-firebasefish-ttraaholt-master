@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "403049676568",
+    "firebase_url": "https://unit13-firebasefish-ttraaholt.firebaseio.com",
+    "project_id": "unit13-firebasefish-ttraaholt",
+    "storage_bucket": "unit13-firebasefish-ttraaholt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403049676568:android:a1695d7ecc99ba5e",
+        "android_client_info": {
+          "package_name": "css.cis3334.fishlocatorfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403049676568-lsqe9um1efilqp2v6aq5js8kf68cg4k6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "css.cis3334.fishlocatorfirebase",
+            "certificate_hash": "6b2c47e4b4948924b1cb3a29d23f9c32ce3e73ae"
+          }
+        },
+        {
+          "client_id": "403049676568-da9hq9gkahmq1ggiqu0piefifv3nt4qm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5MHZKewYOd1vEIvkp3OiHt0v8L9vMVIE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403049676568-da9hq9gkahmq1ggiqu0piefifv3nt4qm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
